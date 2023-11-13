@@ -1,8 +1,9 @@
-# React + Vite
+# Creating Simple Form With React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Screenshots
 
-Currently, two official plugins are available:
+![ps](./Project%20Screenshot/ps.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Screen Record
+
+[Watch On YouTube](https://youtu.be/qTJ2d6DrnIs)
